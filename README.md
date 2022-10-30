@@ -15,3 +15,9 @@ https://mediajams.dev/post/How-to-build-a-video-editor-using-Cloudinary-and-Reac
 Drawback: Users need to update manually and install it
 
 4. Create your own backend and server with Ffmpeg
+
+5. Web based editor (SaaS)
+
+https://clipchamp.com/en/
+https://www.veed.io/
+https://www.kapwing.com/
